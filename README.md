@@ -25,4 +25,6 @@ Feel free to contribute to the project by adding more features, improving stylin
 
 This project is purely educational and serves as a practice exercise for HTML and CSS skills. It does not include advanced features or real e-commerce functionality.
 
+Watch the video of this project on LinkedIn - https://www.linkedin.com/posts/skasraful2004_webdevelopment-html-css-activity-7148902043947053056-5g3s?utm_source=share&utm_medium=member_android
+
 Thank you so much for your valuable time.
