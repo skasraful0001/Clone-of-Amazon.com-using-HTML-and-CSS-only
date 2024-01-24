@@ -11,12 +11,6 @@ Product Listing: The main content section displays product cards, each featuring
 
 Footer: The footer contains a copyright notice, maintaining a consistent layout with the original Amazon design.
 
-**How to Use:**
-
-Clone the Repository: Use the git clone command to clone the repository to your local machine.
-
-Open index.html: Launch the index.html file in your preferred web browser to explore the Amazon.com Clone.
-
 **Contributing:**
 
 Feel free to contribute to the project by adding more features, improving styling, or enhancing the user interface. Create a fork of the repository, make your changes, and submit a pull request.
